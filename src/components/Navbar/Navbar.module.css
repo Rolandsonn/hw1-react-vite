@@ -1,0 +1,21 @@
+.logo {
+  width: 100px;
+  height: 60px;
+}
+.list {
+  display: flex;
+  gap: 20px;
+}
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.link {
+  font-size: 20px;
+  color: #fff;
+}
+.menu {
+  padding: 10px 0;
+  background-color: var(--color-water);
+}
